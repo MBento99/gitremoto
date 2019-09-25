@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Magno Ibiapino Bento
 Bom dia.
+=======
+Magno Ibiapino Bento.
+Jardel da Rocha Pereira Silva.
+>>>>>>> 6a6b8b09476efe23e8fd9f10b70e2b793b4479f5
